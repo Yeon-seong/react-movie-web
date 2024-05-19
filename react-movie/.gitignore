@@ -1,6 +1,9 @@
 # Git Commit에서 제외되는 파일
 
 
+# 프로젝트 설명문
+# README.md
+
 # dependencies
 /node_modules
 /.pnp
