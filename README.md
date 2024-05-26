@@ -27,12 +27,15 @@
   <!-- React 스킬 아이콘 -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  </p>
+> * JavaScript ES6 문법, React 16버전을 사용하였습니다.
 
 ### Back-end
  <p>
   <!-- Node.js 스킬 아이콘 -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  </p>
+> * Node.js 14버전을 사용하였습니다.
+> * Node.js는 브라우저 밖에서 자바스크립트를 실행 환경을 만들어주기 위해 사용하였습니다.
 
 ### DevOps
   <p>
