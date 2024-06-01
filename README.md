@@ -19,8 +19,8 @@
 ## 🛠 사용 기술
 ### Front-end
 > * JavaScript ES6 문법, React 16버전을 사용하였습니다.
-> * JavaScript ES6 문법은 const, let 변수 선언 방식, 템플릿 리터럴 문자열 표기법, 화살표 함수, 구조 분해 할당 표현식을 위해 사용하였습니다.
-> * React 라이브러리는 지속적으로 데이터가 변화하는 대규모 애플리케이션을 구축하기 위해 사용하였습니다.
+> * const, let 변수 선언 방식, 화살표 함수, 구조 분해 할당을 위해 JavaScript ES6 문법을 사용하였습니다.
+> * 지속적으로 데이터가 변화하는 대규모 애플리케이션을 구축하기 위해 React 라이브러리를 사용하였습니다.
  <p>
   <!-- HTML5 스킬 아이콘 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
